@@ -1,3 +1,4 @@
-### 1) RAG Agent : [![Click Me](https://img.shields.io/badge/Click-Me-blue?style=for-the-badge)](https://github.com/adityakanamadi281/RAG_Agent)
-### 2) Mercury : [![Click Me](https://img.shields.io/badge/Click-Me-blue?style=for-the-badge)](https://github.com/adityakanamadi281/Mercury)
-
+### 1) RAG Agent : [Click Me](https://github.com/adityakanamadi281/RAG_Agent)
+### 2) Mercury : [Click Me](https://github.com/adityakanamadi281/Mercury)
+### 3) TrustRAG : [Click Me](https://github.com/adityakanamadi281/TrustRAG)
+### 4) InvoiceIQ : [Click Me](https://github.com/adityakanamadi281/InvoiceIQ)
